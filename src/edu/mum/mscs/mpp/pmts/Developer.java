@@ -6,7 +6,7 @@ import java.util.List;
 
 
 
-public class Developer extends Employee {
+public class Developer {
 	private String type;
 	private List<Feature> Listoffeatures;
 }
