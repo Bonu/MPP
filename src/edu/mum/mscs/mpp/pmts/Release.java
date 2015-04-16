@@ -3,8 +3,6 @@ package edu.mum.mscs.mpp.pmts;
 import java.util.ArrayList;
 import java.util.List;
 
-// 
-
 
 public class Release {
 	private String version;
