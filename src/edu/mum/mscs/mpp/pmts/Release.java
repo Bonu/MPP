@@ -6,7 +6,6 @@ import java.util.List;
 // 
 
 
-
 public class Release {
 	private String version;
 	private List<Feature> subsetOfBacklogs;
