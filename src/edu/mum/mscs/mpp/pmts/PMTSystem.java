@@ -21,7 +21,7 @@ public class PMTSystem {
 		// We set project later assumption is a project can be create without project manager.
 		prj.setProjectManager(new ProjectManager(20001, "PROJECT_MANAGER_1"));
 
-//		prj.setProductBackLog(); we don't use set because it is composition 
+//		prj.setProductBackLog(); we don't use set because /222222222222it is composition 
 //		and pb should be created with features list.So constructor is used.
 		ProductBacklog pb = new ProductBacklog(createFeatures());
 		
